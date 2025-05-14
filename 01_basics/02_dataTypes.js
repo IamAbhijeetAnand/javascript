@@ -29,3 +29,6 @@ let isLoggedIn = false
 
 
 //object
+
+//console.log(typeof null);  //typeof null will give output as   -> object
+//console.log(typeof undefined);  //The output will be "undefined"
